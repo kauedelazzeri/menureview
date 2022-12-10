@@ -8,7 +8,7 @@ class Converter:
         self.k_calories = []
         self.file = filename
         self.ns = ''
-        self.tree = ET.parse("Cardapio\\"+str(self.file)+".txt")
+        self.tree = ET.parse("Cardapio\\Real\\"+str(self.file)+".txt")
         self.root = self.tree.getroot()
         #week = '2022-11-14'
 
@@ -24,13 +24,13 @@ class Converter:
             self.k_calories.append(int(properties.find('{http://schemas.microsoft.com/ado/2007/08/dataservices}Kcal').text))
 
     def save_df(self):
-        self.df2 = pd.DataFrame({'week_day': self.week_days, 'title': self.titles, 'k_calories': self.k_calories})
-        #print(self.df2)
+        df2 = pd.DataFrame({'week_day': self.week_days, 'title': self.titles, 'k_calories': self.k_calories})
+        #print(df2)
         try:
-            self.df1 = pd.read_csv(str(self.file)+'.csv')
-            self.df = pd.concat([self.df1,self.df2],ignore_index=True).reset_index(drop=True)
+            df1 = pd.read_csv(str(self.file)+'.csv')
+            self.df = pd.concat([df1,df2],ignore_index=True).reset_index(drop=True)
         except:
-            self.df = self.df2
+            self.df = df2
 
     def sort_df(self):
         weekday_sort = {'Segunda':0, 'Terca':1, 'Quarta':2, 'Quinta':3, 'Sexta':4}
@@ -56,7 +56,7 @@ class Converter:
 
     def save_csv(self):
         try:
-            self.df.to_csv("Cardapio\\"+str(self.file)+'.csv',index=False)
+            self.df.to_csv("Cardapio\\Real\\"+str(self.file)+'.csv',index=False)
             #print(len(self.df))
             print("Sucesso ao salvar o CSV")
         except:

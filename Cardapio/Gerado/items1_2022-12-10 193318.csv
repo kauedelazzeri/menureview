@@ -1,0 +1,199 @@
+week_day,title,k_calories,category
+0,Bife grelhado com chimichurry [ARGENTINA],168,Carne
+0,Frango assado à moda Catar *NOVO [CATAR],386,Carne
+0,Brócolis conserva,20,Acompanhamento
+0,Rúcula,12,Acompanhamento
+0,Alface,5,Acompanhamento
+0,Couve-flor ao vapor,28,Acompanhamento
+0,Nabo ralado,22,Acompanhamento
+0,Salada surpresa,4,Acompanhamento
+0,Escarola frissé,5,Acompanhamento
+0,Salada brasileirinha [BRASIL],8,Acompanhamento
+0,Pão de mel *glúten*lactose,86,Sobremesa
+1,Arroz carreteiro [BRASIL],571,Carne
+1,Ensopado de carne com legumes (Saloona) *NOVO [CATAR],318,Carne
+1,Rúcula,12,Acompanhamento
+1,Nabo ralado,22,Acompanhamento
+1,Cenoura e alho poró com cúrcuma [PAÍS DE GALES],40,Acompanhamento
+1,Macarrão ao sugo  *glúten [CROÁCIA],202,Acompanhamento
+1,Pimentão colorido,27,Acompanhamento
+1,Ratatouille [FRANÇA],46,Acompanhamento
+1,Almeirão com milho verde *NOVO,12,Acompanhamento
+1,Beterraba cubada,50,Acompanhamento
+1,Sagu de maça,72,Sobremesa
+2,Tilápia assada com alcaparras *lactose,336,Carne
+2,Bife de frango à portuguesa *NOVO [PORTUGAL],213,Carne
+2,Ratatouille [FRANÇA],46,Acompanhamento
+2,Farofa de luxo *glúten*lactose,238,Acompanhamento
+2,Salada espanhola III [ESPANHA],33,Acompanhamento
+2,Milho e ervilha conserva [BRASIL],89,Acompanhamento
+2,Salada de chuchu cozido,19,Acompanhamento
+2,Beterraba ralada,11,Acompanhamento
+2,Picolé *lactose,95,Sobremesa
+3,Costela [EQUADOR],917,Carne
+3,Tilápia assada com alcaparras *lactose,336,Carne
+3,Salada surpresa,4,Acompanhamento
+3,Salada brasileirinha [BRASIL],8,Acompanhamento
+3,Milho e ervilha conserva [BRASIL],89,Acompanhamento
+3,Pimentão colorido,27,Acompanhamento
+3,Beterraba cubada,50,Acompanhamento
+3,Alface,5,Acompanhamento
+3,Nabo ralado,22,Acompanhamento
+3,Sagu de maça,72,Sobremesa
+4,Bife grelhado com chimichurry [ARGENTINA],168,Carne
+4,Frango assado à moda Catar *NOVO [CATAR],386,Carne
+4,Beterraba ralada,11,Acompanhamento
+4,Agrião,8,Acompanhamento
+4,Salada espanhola III [ESPANHA],33,Acompanhamento
+4,Beterraba cubada,50,Acompanhamento
+4,Acelga,9,Acompanhamento
+4,Brócolis conserva,20,Acompanhamento
+4,Repolho refogado com bacon [ALEMANHA],50,Acompanhamento
+4,Polenta cremosa,136,Acompanhamento
+4,Picolé *lactose,95,Sobremesa
+5,Cubos suíno com mostarda *NOVO [ALEMANHA],315,Carne
+5,Filezinho de frango grelhado *lactose,272,Carne
+5,Pepino salada com casca,4,Acompanhamento
+5,Acelga,9,Acompanhamento
+5,Salada de pepino,5,Acompanhamento
+5,Almeirão com milho verde *NOVO,12,Acompanhamento
+5,Guisado de abobrinha com arroz *NOVO [CATAR],32,Acompanhamento
+5,Macarrão ao sugo  *glúten [CROÁCIA],202,Acompanhamento
+5,Pudim de doce de leite *lactose*NOVO [URUGUAI],98,Sobremesa
+6,Bife grelhado com chimichurry [ARGENTINA],168,Carne
+6,Cubos suíno com mostarda *NOVO [ALEMANHA],315,Carne
+6,Pepino conserva,17,Acompanhamento
+6,Guisado de abobrinha com arroz *NOVO [CATAR],32,Acompanhamento
+6,Macarrão ao sugo  *glúten [CROÁCIA],202,Acompanhamento
+6,Salada italiana,9,Acompanhamento
+6,Alface,5,Acompanhamento
+6,Ratatouille [FRANÇA],46,Acompanhamento
+6,Acelga,9,Acompanhamento
+6,Repolho roxo com abacaxi,9,Acompanhamento
+6,Pavê de chocolate *glúten*lactose [FRANÇA],143,Sobremesa
+7,Filezinho de frango grelhado *lactose,272,Carne
+7,Costela [EQUADOR],917,Carne
+7,Agrião,8,Acompanhamento
+7,Repolho refogado com bacon [ALEMANHA],50,Acompanhamento
+7,Repolho roxo ralado,2,Acompanhamento
+7,Pimentão colorido,27,Acompanhamento
+7,Repolho roxo com abacaxi,9,Acompanhamento
+7,Beterraba cubada,50,Acompanhamento
+7,Nabo ralado,22,Acompanhamento
+7,Sagu de maça,72,Sobremesa
+8,Tilápia assada com alcaparras *lactose,336,Carne
+8,Frango assado à moda Catar *NOVO [CATAR],386,Carne
+8,Pimentão colorido,27,Acompanhamento
+8,Salada de pepino,5,Acompanhamento
+8,Repolho roxo ralado,2,Acompanhamento
+8,Repolho roxo com abacaxi,9,Acompanhamento
+8,Rúcula,12,Acompanhamento
+8,Salada de chuchu cozido,19,Acompanhamento
+8,Pão de mel *glúten*lactose,86,Sobremesa
+9,Ensopado de carne com legumes (Saloona) *NOVO [CATAR],318,Carne
+9,Cubos suíno com mostarda *NOVO [ALEMANHA],315,Carne
+9,Batata gratinada com molho branco *glúten*lactose [DINAMARCA],128,Acompanhamento
+9,Salada brasileirinha [BRASIL],8,Acompanhamento
+9,Salada de tomate,33,Acompanhamento
+9,Beterraba cubada,50,Acompanhamento
+9,Guisado de abobrinha com arroz *NOVO [CATAR],32,Acompanhamento
+9,Cenoura e alho poró com cúrcuma [PAÍS DE GALES],40,Acompanhamento
+9,Pepino conserva,17,Acompanhamento
+9,Picolé *lactose,95,Sobremesa
+10,Costela [EQUADOR],917,Carne
+10,Arroz carreteiro [BRASIL],571,Carne
+10,Beterraba cubada,50,Acompanhamento
+10,Beterraba ralada,11,Acompanhamento
+10,Agrião,8,Acompanhamento
+10,Alface,5,Acompanhamento
+10,Pepino conserva,17,Acompanhamento
+10,Brócolis conserva,20,Acompanhamento
+10,Sagu de maça,72,Sobremesa
+11,Filezinho de frango grelhado *lactose,272,Carne
+11,Costela [EQUADOR],917,Carne
+11,Salada brasileirinha [BRASIL],8,Acompanhamento
+11,Farofa de luxo *glúten*lactose,238,Acompanhamento
+11,Pimentão colorido,27,Acompanhamento
+11,Batata gratinada com molho branco *glúten*lactose [DINAMARCA],128,Acompanhamento
+11,Salada italiana,9,Acompanhamento
+11,Acelga,9,Acompanhamento
+11,Ovo,141,Acompanhamento
+11,Repolho roxo com abacaxi,9,Acompanhamento
+11,Pão de mel *glúten*lactose,86,Sobremesa
+12,Frango assado à moda Catar *NOVO [CATAR],386,Carne
+12,Filezinho de frango grelhado *lactose,272,Carne
+12,Salada surpresa,4,Acompanhamento
+12,Macarrão ao sugo  *glúten [CROÁCIA],202,Acompanhamento
+12,Polenta cremosa,136,Acompanhamento
+12,Repolho refogado com bacon [ALEMANHA],50,Acompanhamento
+12,Ovo,141,Acompanhamento
+12,Cenoura e alho poró com cúrcuma [PAÍS DE GALES],40,Acompanhamento
+12,Sagu de maça,72,Sobremesa
+13,Ensopado de carne com legumes (Saloona) *NOVO [CATAR],318,Carne
+13,Tilápia assada com alcaparras *lactose,336,Carne
+13,Agrião,8,Acompanhamento
+13,Pepino salada com casca,4,Acompanhamento
+13,Pimentão colorido,27,Acompanhamento
+13,Repolho roxo com abacaxi,9,Acompanhamento
+13,Escarola frissé,5,Acompanhamento
+13,Salada italiana,9,Acompanhamento
+13,Picolé *lactose,95,Sobremesa
+14,Bife de frango à portuguesa *NOVO [PORTUGAL],213,Carne
+14,Costela [EQUADOR],917,Carne
+14,Pepino salada com casca,4,Acompanhamento
+14,Couve-flor ao vapor,28,Acompanhamento
+14,Salada italiana,9,Acompanhamento
+14,Macarrão ao sugo  *glúten [CROÁCIA],202,Acompanhamento
+14,Batata chips,432,Acompanhamento
+14,Polenta cremosa,136,Acompanhamento
+14,Salada de tomate,33,Acompanhamento
+14,Picolé *lactose,95,Sobremesa
+15,Ensopado de carne com legumes (Saloona) *NOVO [CATAR],318,Carne
+15,Frango assado à moda Catar *NOVO [CATAR],386,Carne
+15,Salada de chuchu cozido,19,Acompanhamento
+15,Escarola frissé,5,Acompanhamento
+15,Beterraba cubada,50,Acompanhamento
+15,Pepino conserva,17,Acompanhamento
+15,Salada de tomate,33,Acompanhamento
+15,Alface,5,Acompanhamento
+15,Pavê de chocolate *glúten*lactose [FRANÇA],143,Sobremesa
+16,Ensopado de carne com legumes (Saloona) *NOVO [CATAR],318,Carne
+16,Bife de frango à portuguesa *NOVO [PORTUGAL],213,Carne
+16,Salada de tomate,33,Acompanhamento
+16,Farofa de luxo *glúten*lactose,238,Acompanhamento
+16,Batata gratinada com molho branco *glúten*lactose [DINAMARCA],128,Acompanhamento
+16,Agrião,8,Acompanhamento
+16,Salada espanhola III [ESPANHA],33,Acompanhamento
+16,Pepino conserva,17,Acompanhamento
+16,Ovo,141,Acompanhamento
+16,Sagu de maça,72,Sobremesa
+17,Cubos suíno com mostarda *NOVO [ALEMANHA],315,Carne
+17,Tilápia assada com alcaparras *lactose,336,Carne
+17,Pepino conserva,17,Acompanhamento
+17,Repolho roxo ralado,2,Acompanhamento
+17,Couve-flor ao vapor,28,Acompanhamento
+17,Rúcula,12,Acompanhamento
+17,Batata chips,432,Acompanhamento
+17,Cenoura e alho poró com cúrcuma [PAÍS DE GALES],40,Acompanhamento
+17,Polenta cremosa,136,Acompanhamento
+17,Pão de mel *glúten*lactose,86,Sobremesa
+18,Frango assado à moda Catar *NOVO [CATAR],386,Carne
+18,Ensopado de carne com legumes (Saloona) *NOVO [CATAR],318,Carne
+18,Rúcula,12,Acompanhamento
+18,Pepino conserva,17,Acompanhamento
+18,Acelga,9,Acompanhamento
+18,Polenta cremosa,136,Acompanhamento
+18,Batata gratinada com molho branco *glúten*lactose [DINAMARCA],128,Acompanhamento
+18,Farofa de luxo *glúten*lactose,238,Acompanhamento
+18,Salada de tomate,33,Acompanhamento
+18,Pão de mel *glúten*lactose,86,Sobremesa
+19,Costela [EQUADOR],917,Carne
+19,Cubos de frango empanado (Popcorn Chicken) *glúten [EUA],286,Carne
+19,Repolho refogado com bacon [ALEMANHA],50,Acompanhamento
+19,Repolho roxo com abacaxi,9,Acompanhamento
+19,Almeirão com milho verde *NOVO,12,Acompanhamento
+19,Ovo,141,Acompanhamento
+19,Couve-flor ao vapor,28,Acompanhamento
+19,Alface,5,Acompanhamento
+19,Ovo,141,Acompanhamento
+19,Pavê de chocolate *glúten*lactose [FRANÇA],143,Sobremesa
