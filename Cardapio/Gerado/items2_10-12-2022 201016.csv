@@ -1,0 +1,1016 @@
+week_day,title,k_calories,category
+0,Bife ao molho escuro,330,Carne
+0,Bife de frango acebolado,257,Carne
+0,Acelga,9,Acompanhamento
+0,Alface,5,Acompanhamento
+0,Salada japonesa,33,Acompanhamento
+0,Alface,5,Acompanhamento
+0,Beterraba ralada,11,Acompanhamento
+0,Torta de aipim *lactose,171,Acompanhamento
+0,Vagem conserva,147,Acompanhamento
+0,Salada multicor,8,Acompanhamento
+0,Gelatina,57,Sobremesa
+1,Bife de frango acebolado,257,Carne
+1,Bife ao molho escuro,330,Carne
+1,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+1,Chucrute conserva,26,Acompanhamento
+1,Salada marroquina,13,Acompanhamento
+1,Salada de tomate,33,Acompanhamento
+1,Batata palha,320,Acompanhamento
+1,Salada de repolho,6,Acompanhamento
+1,Almeirão,6,Acompanhamento
+1,Macarrão integral à mineira *glúten,241,Acompanhamento
+1,Gelatina,57,Sobremesa
+2,Tilápia ao molho de tomate,277,Carne
+2,Bife à cigana,266,Carne
+2,Chuchu refogado,18,Acompanhamento
+2,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+2,Salada de cenoura cozida,38,Acompanhamento
+2,Alface,5,Acompanhamento
+2,Alface,5,Acompanhamento
+2,Vagem soutê,82,Acompanhamento
+2,Rúcula com semente de girassol,40,Acompanhamento
+2,Agrião,8,Acompanhamento
+2,Pudim brigadeiro *lactose,172,Sobremesa
+3,Frango na cerveja *glúten,303,Carne
+3,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+3,Vagem conserva,147,Acompanhamento
+3,Omelete com tomate,78,Acompanhamento
+3,Nabo ralado,22,Acompanhamento
+3,Rúcula com semente de girassol,40,Acompanhamento
+3,Alface,5,Acompanhamento
+3,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+3,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+4,Frango na cerveja *glúten,303,Carne
+4,Bife de frango acebolado,257,Carne
+4,Vagem conserva,147,Acompanhamento
+4,Agrião,8,Acompanhamento
+4,Salada japonesa,33,Acompanhamento
+4,Torta de aipim *lactose,171,Acompanhamento
+4,Salada marroquina,13,Acompanhamento
+4,Beterraba ralada,11,Acompanhamento
+4,Alface,5,Acompanhamento
+4,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+4,Pudim brigadeiro *lactose,172,Sobremesa
+5,Frango assado,267,Carne
+5,Bife de frango acebolado,257,Carne
+5,Salada italiana,9,Acompanhamento
+5,Polenta cremosa,136,Acompanhamento
+5,Salada verão,6,Acompanhamento
+5,Vagem conserva,147,Acompanhamento
+5,Salada multicor,8,Acompanhamento
+5,Pimentão colorido,27,Acompanhamento
+5,Creme de tapioca *glúten*lactose,61,Sobremesa
+6,Picadinho suíno,748,Carne
+6,Bife de frango acebolado,257,Carne
+6,Salada multicor,8,Acompanhamento
+6,Pimentão colorido,27,Acompanhamento
+6,Vagem soutê,82,Acompanhamento
+6,Mandioquinha com manjericão,101,Acompanhamento
+6,Brócolis conserva,20,Acompanhamento
+6,Rúcula com semente de girassol,40,Acompanhamento
+6,Abóbora soutê,42,Acompanhamento
+6,Gelatina,57,Sobremesa
+7,Frango assado,267,Carne
+7,Bife ao molho escuro,330,Carne
+7,Legumes refogados com alecrim,76,Acompanhamento
+7,Alface,5,Acompanhamento
+7,Omelete com tomate,78,Acompanhamento
+7,Vagem soutê,82,Acompanhamento
+7,Mandioquinha com manjericão,101,Acompanhamento
+7,Vinagrete simples,8,Acompanhamento
+7,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+8,Tilápia ao molho de tomate,277,Carne
+8,Picadinho suíno,748,Carne
+8,Omelete com tomate,78,Acompanhamento
+8,Chuchu refogado,18,Acompanhamento
+8,Pimentão colorido,27,Acompanhamento
+8,Torta de aipim *lactose,171,Acompanhamento
+8,Nabo ralado,22,Acompanhamento
+8,Rúcula com semente de girassol,40,Acompanhamento
+8,Alface,5,Acompanhamento
+8,Barra de cereal *glúten*lactose,110,Sobremesa
+9,Bife ao molho escuro,330,Carne
+9,Tilápia ao molho de tomate,277,Carne
+9,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+9,Alface,5,Acompanhamento
+9,Alface,5,Acompanhamento
+9,Salada italiana,9,Acompanhamento
+9,Macarrão integral à mineira *glúten,241,Acompanhamento
+9,Alface,5,Acompanhamento
+9,Gelatina,57,Sobremesa
+10,Frango assado,267,Carne
+10,Bife à cigana,266,Carne
+10,Polenta cremosa,136,Acompanhamento
+10,Nabo ralado,22,Acompanhamento
+10,Vagem conserva,147,Acompanhamento
+10,Pepino salada com casca,4,Acompanhamento
+10,Chucrute conserva,26,Acompanhamento
+10,Acelga,9,Acompanhamento
+10,Beterraba ralada,11,Acompanhamento
+10,Salada italiana,9,Acompanhamento
+10,Creme de tapioca *glúten*lactose,61,Sobremesa
+11,Frango assado,267,Carne
+11,Tilápia ao molho de tomate,277,Carne
+11,Brócolis conserva,20,Acompanhamento
+11,Acelga,9,Acompanhamento
+11,Torta de aipim *lactose,171,Acompanhamento
+11,Salada multicor,8,Acompanhamento
+11,Rúcula com semente de girassol,40,Acompanhamento
+11,Agrião,8,Acompanhamento
+11,Chuchu refogado,18,Acompanhamento
+11,Salada japonesa,33,Acompanhamento
+11,Creme de tapioca *glúten*lactose,61,Sobremesa
+12,Frango assado,267,Carne
+12,Dobradinha,297,Carne
+12,Alface,5,Acompanhamento
+12,Chuchu refogado,18,Acompanhamento
+12,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+12,Nabo ralado,22,Acompanhamento
+12,Chucrute conserva,26,Acompanhamento
+12,Brócolis conserva,20,Acompanhamento
+12,Almeirão,6,Acompanhamento
+12,Pudim brigadeiro *lactose,172,Sobremesa
+13,Lombo suíno com molho barbecue,374,Carne
+13,Bife de frango acebolado,257,Carne
+13,Mandioquinha com manjericão,101,Acompanhamento
+13,Salada japonesa,33,Acompanhamento
+13,Abóbora soutê,42,Acompanhamento
+13,Salada marroquina,13,Acompanhamento
+13,Macarrão integral à mineira *glúten,241,Acompanhamento
+13,Acelga,9,Acompanhamento
+13,Alface,5,Acompanhamento
+13,Creme de tapioca *glúten*lactose,61,Sobremesa
+14,Picadinho suíno,748,Carne
+14,Frango na cerveja *glúten,303,Carne
+14,Pimentão colorido,27,Acompanhamento
+14,Brócolis conserva,20,Acompanhamento
+14,Beterraba ralada,11,Acompanhamento
+14,Chucrute conserva,26,Acompanhamento
+14,Mandioquinha com manjericão,101,Acompanhamento
+14,Alface,5,Acompanhamento
+14,Polenta cremosa,136,Acompanhamento
+14,Creme de tapioca *glúten*lactose,61,Sobremesa
+15,Lombo suíno com molho barbecue,374,Carne
+15,Frango assado,267,Carne
+15,Beterraba ralada,11,Acompanhamento
+15,Salada de repolho,6,Acompanhamento
+15,Pepino salada com casca,4,Acompanhamento
+15,Vinagrete simples,8,Acompanhamento
+15,Almeirão,6,Acompanhamento
+15,Cenoura ralada,50,Acompanhamento
+15,Barra de cereal *glúten*lactose,110,Sobremesa
+16,Frango assado,267,Carne
+16,Picadinho suíno,748,Carne
+16,Salada de cenoura cozida,38,Acompanhamento
+16,Salada verão,6,Acompanhamento
+16,Cenoura ralada,50,Acompanhamento
+16,Batata palha,320,Acompanhamento
+16,Salada italiana,9,Acompanhamento
+16,Chucrute conserva,26,Acompanhamento
+16,Vagem soutê,82,Acompanhamento
+16,Creme de tapioca *glúten*lactose,61,Sobremesa
+17,Frango na cerveja *glúten,303,Carne
+17,Bife de frango acebolado,257,Carne
+17,Vagem soutê,82,Acompanhamento
+17,Macarrão integral à mineira *glúten,241,Acompanhamento
+17,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+17,Batata palha,320,Acompanhamento
+17,Salada de tomate,33,Acompanhamento
+17,Brócolis conserva,20,Acompanhamento
+17,Pimentão colorido,27,Acompanhamento
+17,Gelatina,57,Sobremesa
+18,Dobradinha,297,Carne
+18,Frango assado,267,Carne
+18,Chuchu refogado,18,Acompanhamento
+18,Torta de aipim *lactose,171,Acompanhamento
+18,Salada de repolho,6,Acompanhamento
+18,Salada japonesa,33,Acompanhamento
+18,Chucrute conserva,26,Acompanhamento
+18,Polenta cremosa,136,Acompanhamento
+18,Abóbora soutê,42,Acompanhamento
+18,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+18,Pudim brigadeiro *lactose,172,Sobremesa
+19,Bife à cigana,266,Carne
+19,Frango na cerveja *glúten,303,Carne
+19,Rúcula com semente de girassol,40,Acompanhamento
+19,Polenta cremosa,136,Acompanhamento
+19,Salada verão,6,Acompanhamento
+19,Mandioquinha com manjericão,101,Acompanhamento
+19,Torta de aipim *lactose,171,Acompanhamento
+19,Pepino salada com casca,4,Acompanhamento
+19,Pimentão colorido,27,Acompanhamento
+19,Pudim brigadeiro *lactose,172,Sobremesa
+20,Bife ao molho escuro,330,Carne
+20,Lombo suíno com molho barbecue,374,Carne
+20,Vagem soutê,82,Acompanhamento
+20,Almeirão,6,Acompanhamento
+20,Beterraba cubada,50,Acompanhamento
+20,Agrião,8,Acompanhamento
+20,Acelga,9,Acompanhamento
+20,Salada japonesa,33,Acompanhamento
+20,Torta de aipim *lactose,171,Acompanhamento
+20,Cenoura ralada,50,Acompanhamento
+20,Creme de tapioca *glúten*lactose,61,Sobremesa
+21,Picadinho suíno,748,Carne
+21,Bife ao molho escuro,330,Carne
+21,Alface,5,Acompanhamento
+21,Rúcula com semente de girassol,40,Acompanhamento
+21,Salada multicor,8,Acompanhamento
+21,Omelete com tomate,78,Acompanhamento
+21,Ovo,141,Acompanhamento
+21,Nabo ralado,22,Acompanhamento
+21,Vinagrete simples,8,Acompanhamento
+21,Pudim brigadeiro *lactose,172,Sobremesa
+22,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+22,Lombo suíno com molho barbecue,374,Carne
+22,Salada de repolho,6,Acompanhamento
+22,Abóbora soutê,42,Acompanhamento
+22,Vinagrete simples,8,Acompanhamento
+22,Pimentão colorido,27,Acompanhamento
+22,Beterraba cubada,50,Acompanhamento
+22,Mandioquinha com manjericão,101,Acompanhamento
+22,Cenoura ralada,50,Acompanhamento
+22,Acelga,9,Acompanhamento
+22,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+23,Tilápia ao molho de tomate,277,Carne
+23,Bife à cigana,266,Carne
+23,Ovo,141,Acompanhamento
+23,Nabo ralado,22,Acompanhamento
+23,Brócolis conserva,20,Acompanhamento
+23,Alface,5,Acompanhamento
+23,Legumes refogados com alecrim,76,Acompanhamento
+23,Salada marroquina,13,Acompanhamento
+23,Acelga,9,Acompanhamento
+23,Abóbora soutê,42,Acompanhamento
+23,Barra de cereal *glúten*lactose,110,Sobremesa
+24,Bife ao molho escuro,330,Carne
+24,Bife à cigana,266,Carne
+24,Salada italiana,9,Acompanhamento
+24,Salada marroquina,13,Acompanhamento
+24,Vagem conserva,147,Acompanhamento
+24,Rúcula com semente de girassol,40,Acompanhamento
+24,Alface,5,Acompanhamento
+24,Beterraba cubada,50,Acompanhamento
+24,Pepino salada com casca,4,Acompanhamento
+24,Creme de tapioca *glúten*lactose,61,Sobremesa
+25,Dobradinha,297,Carne
+25,Frango na cerveja *glúten,303,Carne
+25,Chuchu refogado,18,Acompanhamento
+25,Abóbora soutê,42,Acompanhamento
+25,Ovo,141,Acompanhamento
+25,Mandioquinha com manjericão,101,Acompanhamento
+25,Salada de tomate,33,Acompanhamento
+25,Salada verão,6,Acompanhamento
+25,Legumes refogados com alecrim,76,Acompanhamento
+25,Acelga,9,Acompanhamento
+25,Pudim brigadeiro *lactose,172,Sobremesa
+26,Bife de frango acebolado,257,Carne
+26,Picadinho suíno,748,Carne
+26,Rúcula com semente de girassol,40,Acompanhamento
+26,Salada de cenoura cozida,38,Acompanhamento
+26,Torta de aipim *lactose,171,Acompanhamento
+26,Salada multicor,8,Acompanhamento
+26,Beterraba cubada,50,Acompanhamento
+26,Beterraba ralada,11,Acompanhamento
+26,Gelatina,57,Sobremesa
+27,Frango na cerveja *glúten,303,Carne
+27,Dobradinha,297,Carne
+27,Acelga,9,Acompanhamento
+27,Agrião,8,Acompanhamento
+27,Batata palha,320,Acompanhamento
+27,Ovo,141,Acompanhamento
+27,Beterraba cubada,50,Acompanhamento
+27,Rúcula com semente de girassol,40,Acompanhamento
+27,Pimentão colorido,27,Acompanhamento
+27,Almeirão,6,Acompanhamento
+27,Pudim brigadeiro *lactose,172,Sobremesa
+28,Lombo suíno com molho barbecue,374,Carne
+28,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+28,Almeirão,6,Acompanhamento
+28,Beterraba cubada,50,Acompanhamento
+28,Salada de cenoura cozida,38,Acompanhamento
+28,Batata palha,320,Acompanhamento
+28,Salada marroquina,13,Acompanhamento
+28,Vagem conserva,147,Acompanhamento
+28,Pepino salada com casca,4,Acompanhamento
+28,Salada multicor,8,Acompanhamento
+28,Gelatina,57,Sobremesa
+29,Dobradinha,297,Carne
+29,Bife ao molho escuro,330,Carne
+29,Macarrão integral à mineira *glúten,241,Acompanhamento
+29,Salada de repolho,6,Acompanhamento
+29,Chucrute conserva,26,Acompanhamento
+29,Chuchu refogado,18,Acompanhamento
+29,Salada multicor,8,Acompanhamento
+29,Vagem conserva,147,Acompanhamento
+29,Torta de aipim *lactose,171,Acompanhamento
+29,Creme de tapioca *glúten*lactose,61,Sobremesa
+30,Picadinho suíno,748,Carne
+30,Bife de frango acebolado,257,Carne
+30,Salada marroquina,13,Acompanhamento
+30,Salada italiana,9,Acompanhamento
+30,Salada japonesa,33,Acompanhamento
+30,Brócolis conserva,20,Acompanhamento
+30,Salada de tomate,33,Acompanhamento
+30,Polenta cremosa,136,Acompanhamento
+30,Acelga,9,Acompanhamento
+30,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+31,Picadinho suíno,748,Carne
+31,Bife ao molho escuro,330,Carne
+31,Macarrão integral à mineira *glúten,241,Acompanhamento
+31,Omelete com tomate,78,Acompanhamento
+31,Pepino salada com casca,4,Acompanhamento
+31,Salada multicor,8,Acompanhamento
+31,Salada de cenoura cozida,38,Acompanhamento
+31,Batata palha,320,Acompanhamento
+31,Pudim brigadeiro *lactose,172,Sobremesa
+32,Frango na cerveja *glúten,303,Carne
+32,Tilápia ao molho de tomate,277,Carne
+32,Chuchu refogado,18,Acompanhamento
+32,Chucrute conserva,26,Acompanhamento
+32,Almeirão,6,Acompanhamento
+32,Salada japonesa,33,Acompanhamento
+32,Ovo,141,Acompanhamento
+32,Alface,5,Acompanhamento
+32,Gelatina,57,Sobremesa
+33,Lombo suíno com molho barbecue,374,Carne
+33,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+33,Almeirão,6,Acompanhamento
+33,Omelete com tomate,78,Acompanhamento
+33,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+33,Salada verão,6,Acompanhamento
+33,Beterraba ralada,11,Acompanhamento
+33,Alface,5,Acompanhamento
+33,Salada marroquina,13,Acompanhamento
+33,Barra de cereal *glúten*lactose,110,Sobremesa
+34,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+34,Frango na cerveja *glúten,303,Carne
+34,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+34,Polenta cremosa,136,Acompanhamento
+34,Mandioquinha com manjericão,101,Acompanhamento
+34,Salada japonesa,33,Acompanhamento
+34,Vagem conserva,147,Acompanhamento
+34,Salada marroquina,13,Acompanhamento
+34,Gelatina,57,Sobremesa
+35,Bife à cigana,266,Carne
+35,Picadinho suíno,748,Carne
+35,Ovo,141,Acompanhamento
+35,Salada de cenoura cozida,38,Acompanhamento
+35,Mandioquinha com manjericão,101,Acompanhamento
+35,Alface,5,Acompanhamento
+35,Cenoura ralada,50,Acompanhamento
+35,Salada marroquina,13,Acompanhamento
+35,Chuchu refogado,18,Acompanhamento
+35,Gelatina,57,Sobremesa
+36,Tilápia ao molho de tomate,277,Carne
+36,Picadinho suíno,748,Carne
+36,Mandioquinha com manjericão,101,Acompanhamento
+36,Rúcula com semente de girassol,40,Acompanhamento
+36,Salada de repolho,6,Acompanhamento
+36,Cenoura ralada,50,Acompanhamento
+36,Agrião,8,Acompanhamento
+36,Abóbora soutê,42,Acompanhamento
+36,Acelga,9,Acompanhamento
+36,Chucrute conserva,26,Acompanhamento
+36,Pudim brigadeiro *lactose,172,Sobremesa
+37,Tilápia ao molho de tomate,277,Carne
+37,Frango assado,267,Carne
+37,Salada marroquina,13,Acompanhamento
+37,Brócolis conserva,20,Acompanhamento
+37,Chucrute conserva,26,Acompanhamento
+37,Cenoura ralada,50,Acompanhamento
+37,Polenta cremosa,136,Acompanhamento
+37,Torta de aipim *lactose,171,Acompanhamento
+37,Omelete com tomate,78,Acompanhamento
+37,Creme de tapioca *glúten*lactose,61,Sobremesa
+38,Picadinho suíno,748,Carne
+38,Bife à cigana,266,Carne
+38,Ovo,141,Acompanhamento
+38,Salada marroquina,13,Acompanhamento
+38,Alface,5,Acompanhamento
+38,Beterraba cubada,50,Acompanhamento
+38,Macarrão integral à mineira *glúten,241,Acompanhamento
+38,Salada de cenoura cozida,38,Acompanhamento
+38,Barra de cereal *glúten*lactose,110,Sobremesa
+39,Dobradinha,297,Carne
+39,Frango assado,267,Carne
+39,Chucrute conserva,26,Acompanhamento
+39,Acelga,9,Acompanhamento
+39,Legumes refogados com alecrim,76,Acompanhamento
+39,Vagem soutê,82,Acompanhamento
+39,Chuchu refogado,18,Acompanhamento
+39,Mandioquinha com manjericão,101,Acompanhamento
+39,Nabo ralado,22,Acompanhamento
+39,Omelete com tomate,78,Acompanhamento
+39,Barra de cereal *glúten*lactose,110,Sobremesa
+40,Bife à cigana,266,Carne
+40,Frango assado,267,Carne
+40,Alface,5,Acompanhamento
+40,Acelga,9,Acompanhamento
+40,Mandioquinha com manjericão,101,Acompanhamento
+40,Rúcula com semente de girassol,40,Acompanhamento
+40,Torta de aipim *lactose,171,Acompanhamento
+40,Salada italiana,9,Acompanhamento
+40,Gelatina,57,Sobremesa
+41,Frango assado,267,Carne
+41,Frango na cerveja *glúten,303,Carne
+41,Chuchu refogado,18,Acompanhamento
+41,Abóbora soutê,42,Acompanhamento
+41,Batata palha,320,Acompanhamento
+41,Alface,5,Acompanhamento
+41,Agrião,8,Acompanhamento
+41,Vinagrete simples,8,Acompanhamento
+41,Salada japonesa,33,Acompanhamento
+41,Creme de tapioca *glúten*lactose,61,Sobremesa
+42,Tilápia ao molho de tomate,277,Carne
+42,Lombo suíno com molho barbecue,374,Carne
+42,Ovo,141,Acompanhamento
+42,Chucrute conserva,26,Acompanhamento
+42,Vinagrete simples,8,Acompanhamento
+42,Brócolis conserva,20,Acompanhamento
+42,Pepino salada com casca,4,Acompanhamento
+42,Alface,5,Acompanhamento
+42,Salada verão,6,Acompanhamento
+42,Alface,5,Acompanhamento
+42,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+43,Bife de frango acebolado,257,Carne
+43,Bife ao molho escuro,330,Carne
+43,Salada de repolho,6,Acompanhamento
+43,Alface,5,Acompanhamento
+43,Chuchu refogado,18,Acompanhamento
+43,Legumes refogados com alecrim,76,Acompanhamento
+43,Beterraba ralada,11,Acompanhamento
+43,Brócolis conserva,20,Acompanhamento
+43,Agrião,8,Acompanhamento
+43,Abóbora soutê,42,Acompanhamento
+43,Creme de tapioca *glúten*lactose,61,Sobremesa
+44,Bife à cigana,266,Carne
+44,Frango na cerveja *glúten,303,Carne
+44,Ovo,141,Acompanhamento
+44,Vinagrete simples,8,Acompanhamento
+44,Mandioquinha com manjericão,101,Acompanhamento
+44,Salada multicor,8,Acompanhamento
+44,Abóbora soutê,42,Acompanhamento
+44,Rúcula com semente de girassol,40,Acompanhamento
+44,Batata palha,320,Acompanhamento
+44,Salada italiana,9,Acompanhamento
+44,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+45,Lombo suíno com molho barbecue,374,Carne
+45,Frango na cerveja *glúten,303,Carne
+45,Cenoura ralada,50,Acompanhamento
+45,Brócolis conserva,20,Acompanhamento
+45,Agrião,8,Acompanhamento
+45,Ovo,141,Acompanhamento
+45,Macarrão integral à mineira *glúten,241,Acompanhamento
+45,Abóbora soutê,42,Acompanhamento
+45,Barra de cereal *glúten*lactose,110,Sobremesa
+46,Tilápia ao molho de tomate,277,Carne
+46,Bife ao molho escuro,330,Carne
+46,Agrião,8,Acompanhamento
+46,Acelga,9,Acompanhamento
+46,Pepino salada com casca,4,Acompanhamento
+46,Chuchu refogado,18,Acompanhamento
+46,Nabo ralado,22,Acompanhamento
+46,Pimentão colorido,27,Acompanhamento
+46,Vinagrete simples,8,Acompanhamento
+46,Barra de cereal *glúten*lactose,110,Sobremesa
+47,Dobradinha,297,Carne
+47,Lombo suíno com molho barbecue,374,Carne
+47,Salada multicor,8,Acompanhamento
+47,Almeirão,6,Acompanhamento
+47,Ovo,141,Acompanhamento
+47,Abóbora soutê,42,Acompanhamento
+47,Mandioquinha com manjericão,101,Acompanhamento
+47,Salada de cenoura cozida,38,Acompanhamento
+47,Alface,5,Acompanhamento
+47,Vagem conserva,147,Acompanhamento
+47,Gelatina,57,Sobremesa
+48,Frango assado,267,Carne
+48,Bife ao molho escuro,330,Carne
+48,Alface,5,Acompanhamento
+48,Chuchu refogado,18,Acompanhamento
+48,Alface,5,Acompanhamento
+48,Polenta cremosa,136,Acompanhamento
+48,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+48,Mandioquinha com manjericão,101,Acompanhamento
+48,Legumes refogados com alecrim,76,Acompanhamento
+48,Gelatina,57,Sobremesa
+49,Bife ao molho escuro,330,Carne
+49,Picadinho suíno,748,Carne
+49,Legumes refogados com alecrim,76,Acompanhamento
+49,Abóbora soutê,42,Acompanhamento
+49,Beterraba cubada,50,Acompanhamento
+49,Polenta cremosa,136,Acompanhamento
+49,Salada marroquina,13,Acompanhamento
+49,Agrião,8,Acompanhamento
+49,Nabo ralado,22,Acompanhamento
+49,Salada japonesa,33,Acompanhamento
+49,Barra de cereal *glúten*lactose,110,Sobremesa
+50,Bife ao molho escuro,330,Carne
+50,Picadinho suíno,748,Carne
+50,Chuchu refogado,18,Acompanhamento
+50,Vinagrete simples,8,Acompanhamento
+50,Vagem conserva,147,Acompanhamento
+50,Batata palha,320,Acompanhamento
+50,Polenta cremosa,136,Acompanhamento
+50,Acelga,9,Acompanhamento
+50,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+51,Picadinho suíno,748,Carne
+51,Bife de frango acebolado,257,Carne
+51,Vinagrete simples,8,Acompanhamento
+51,Salada de cenoura cozida,38,Acompanhamento
+51,Batata palha,320,Acompanhamento
+51,Salada de repolho,6,Acompanhamento
+51,Beterraba cubada,50,Acompanhamento
+51,Vagem conserva,147,Acompanhamento
+51,Chucrute conserva,26,Acompanhamento
+51,Rúcula com semente de girassol,40,Acompanhamento
+51,Gelatina,57,Sobremesa
+52,Tilápia ao molho de tomate,277,Carne
+52,Bife de frango acebolado,257,Carne
+52,Agrião,8,Acompanhamento
+52,Mandioquinha com manjericão,101,Acompanhamento
+52,Legumes refogados com alecrim,76,Acompanhamento
+52,Pimentão colorido,27,Acompanhamento
+52,Batata palha,320,Acompanhamento
+52,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+52,Macarrão integral à mineira *glúten,241,Acompanhamento
+52,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+53,Bife de frango acebolado,257,Carne
+53,Bife ao molho escuro,330,Carne
+53,Salada de tomate,33,Acompanhamento
+53,Salada de repolho,6,Acompanhamento
+53,Vinagrete simples,8,Acompanhamento
+53,Batata palha,320,Acompanhamento
+53,Salada marroquina,13,Acompanhamento
+53,Abóbora soutê,42,Acompanhamento
+53,Salada japonesa,33,Acompanhamento
+53,Creme de tapioca *glúten*lactose,61,Sobremesa
+54,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+54,Lombo suíno com molho barbecue,374,Carne
+54,Salada italiana,9,Acompanhamento
+54,Acelga,9,Acompanhamento
+54,Legumes refogados com alecrim,76,Acompanhamento
+54,Beterraba ralada,11,Acompanhamento
+54,Rúcula com semente de girassol,40,Acompanhamento
+54,Batata palha,320,Acompanhamento
+54,Alface,5,Acompanhamento
+54,Barra de cereal *glúten*lactose,110,Sobremesa
+55,Dobradinha,297,Carne
+55,Bife de frango acebolado,257,Carne
+55,Pepino salada com casca,4,Acompanhamento
+55,Beterraba cubada,50,Acompanhamento
+55,Salada de tomate,33,Acompanhamento
+55,Salada de repolho,6,Acompanhamento
+55,Salada verão,6,Acompanhamento
+55,Beterraba ralada,11,Acompanhamento
+55,Polenta cremosa,136,Acompanhamento
+55,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+56,Dobradinha,297,Carne
+56,Bife ao molho escuro,330,Carne
+56,Pimentão colorido,27,Acompanhamento
+56,Cenoura ralada,50,Acompanhamento
+56,Chuchu refogado,18,Acompanhamento
+56,Polenta cremosa,136,Acompanhamento
+56,Omelete com tomate,78,Acompanhamento
+56,Salada verão,6,Acompanhamento
+56,Brócolis conserva,20,Acompanhamento
+56,Barra de cereal *glúten*lactose,110,Sobremesa
+57,Frango na cerveja *glúten,303,Carne
+57,Dobradinha,297,Carne
+57,Batata palha,320,Acompanhamento
+57,Salada multicor,8,Acompanhamento
+57,Agrião,8,Acompanhamento
+57,Chucrute conserva,26,Acompanhamento
+57,Polenta cremosa,136,Acompanhamento
+57,Ovo,141,Acompanhamento
+57,Torta de aipim *lactose,171,Acompanhamento
+57,Pudim brigadeiro *lactose,172,Sobremesa
+58,Bife ao molho escuro,330,Carne
+58,Dobradinha,297,Carne
+58,Alface,5,Acompanhamento
+58,Salada de cenoura cozida,38,Acompanhamento
+58,Almeirão,6,Acompanhamento
+58,Chucrute conserva,26,Acompanhamento
+58,Omelete com tomate,78,Acompanhamento
+58,Vagem conserva,147,Acompanhamento
+58,Abóbora soutê,42,Acompanhamento
+58,Barra de cereal *glúten*lactose,110,Sobremesa
+59,Lombo suíno com molho barbecue,374,Carne
+59,Bife à cigana,266,Carne
+59,Omelete com tomate,78,Acompanhamento
+59,Mandioquinha com manjericão,101,Acompanhamento
+59,Brócolis conserva,20,Acompanhamento
+59,Pimentão colorido,27,Acompanhamento
+59,Nabo ralado,22,Acompanhamento
+59,Almeirão,6,Acompanhamento
+59,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+60,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+60,Bife ao molho escuro,330,Carne
+60,Acelga,9,Acompanhamento
+60,Beterraba cubada,50,Acompanhamento
+60,Pimentão colorido,27,Acompanhamento
+60,Cenoura ralada,50,Acompanhamento
+60,Omelete com tomate,78,Acompanhamento
+60,Batata palha,320,Acompanhamento
+60,Beterraba ralada,11,Acompanhamento
+60,Agrião,8,Acompanhamento
+60,Creme de tapioca *glúten*lactose,61,Sobremesa
+61,Bife de frango acebolado,257,Carne
+61,Picadinho suíno,748,Carne
+61,Alface,5,Acompanhamento
+61,Salada de repolho,6,Acompanhamento
+61,Almeirão,6,Acompanhamento
+61,Polenta cremosa,136,Acompanhamento
+61,Macarrão integral à mineira *glúten,241,Acompanhamento
+61,Salada de cenoura cozida,38,Acompanhamento
+61,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+62,Frango na cerveja *glúten,303,Carne
+62,Dobradinha,297,Carne
+62,Macarrão integral à mineira *glúten,241,Acompanhamento
+62,Omelete com tomate,78,Acompanhamento
+62,Abóbora soutê,42,Acompanhamento
+62,Cenoura ralada,50,Acompanhamento
+62,Salada multicor,8,Acompanhamento
+62,Batata palha,320,Acompanhamento
+62,Salada japonesa,33,Acompanhamento
+62,Acelga,9,Acompanhamento
+62,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+63,Tilápia ao molho de tomate,277,Carne
+63,Bife à cigana,266,Carne
+63,Alface,5,Acompanhamento
+63,Salada de tomate,33,Acompanhamento
+63,Chuchu refogado,18,Acompanhamento
+63,Vagem conserva,147,Acompanhamento
+63,Mandioquinha com manjericão,101,Acompanhamento
+63,Acelga,9,Acompanhamento
+63,Barra de cereal *glúten*lactose,110,Sobremesa
+64,Picadinho suíno,748,Carne
+64,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+64,Chuchu refogado,18,Acompanhamento
+64,Salada marroquina,13,Acompanhamento
+64,Cenoura ralada,50,Acompanhamento
+64,Alface,5,Acompanhamento
+64,Legumes refogados com alecrim,76,Acompanhamento
+64,Brócolis conserva,20,Acompanhamento
+64,Barra de cereal *glúten*lactose,110,Sobremesa
+65,Bife de frango acebolado,257,Carne
+65,Bife à cigana,266,Carne
+65,Macarrão integral à mineira *glúten,241,Acompanhamento
+65,Chucrute conserva,26,Acompanhamento
+65,Omelete com tomate,78,Acompanhamento
+65,Rúcula com semente de girassol,40,Acompanhamento
+65,Vagem soutê,82,Acompanhamento
+65,Salada japonesa,33,Acompanhamento
+65,Chuchu refogado,18,Acompanhamento
+65,Gelatina,57,Sobremesa
+66,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+66,Picadinho suíno,748,Carne
+66,Salada marroquina,13,Acompanhamento
+66,Mandioquinha com manjericão,101,Acompanhamento
+66,Macarrão integral à mineira *glúten,241,Acompanhamento
+66,Vinagrete simples,8,Acompanhamento
+66,Pepino salada com casca,4,Acompanhamento
+66,Polenta cremosa,136,Acompanhamento
+66,Beterraba ralada,11,Acompanhamento
+66,Barra de cereal *glúten*lactose,110,Sobremesa
+67,Frango assado,267,Carne
+67,Dobradinha,297,Carne
+67,Salada de repolho,6,Acompanhamento
+67,Omelete com tomate,78,Acompanhamento
+67,Batata palha,320,Acompanhamento
+67,Torta de aipim *lactose,171,Acompanhamento
+67,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+67,Macarrão integral à mineira *glúten,241,Acompanhamento
+67,Gelatina,57,Sobremesa
+68,Tilápia ao molho de tomate,277,Carne
+68,Bife ao molho escuro,330,Carne
+68,Torta de aipim *lactose,171,Acompanhamento
+68,Rúcula com semente de girassol,40,Acompanhamento
+68,Beterraba cubada,50,Acompanhamento
+68,Macarrão integral à mineira *glúten,241,Acompanhamento
+68,Vagem soutê,82,Acompanhamento
+68,Acelga,9,Acompanhamento
+68,Batata palha,320,Acompanhamento
+68,Salada de repolho,6,Acompanhamento
+68,Barra de cereal *glúten*lactose,110,Sobremesa
+69,Lombo suíno com molho barbecue,374,Carne
+69,Picadinho suíno,748,Carne
+69,Brócolis conserva,20,Acompanhamento
+69,Salada italiana,9,Acompanhamento
+69,Pimentão colorido,27,Acompanhamento
+69,Alface,5,Acompanhamento
+69,Omelete com tomate,78,Acompanhamento
+69,Salada de repolho,6,Acompanhamento
+69,Vagem conserva,147,Acompanhamento
+69,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+70,Bife ao molho escuro,330,Carne
+70,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+70,Rúcula com semente de girassol,40,Acompanhamento
+70,Agrião,8,Acompanhamento
+70,Polenta cremosa,136,Acompanhamento
+70,Mandioquinha com manjericão,101,Acompanhamento
+70,Beterraba ralada,11,Acompanhamento
+70,Abóbora soutê,42,Acompanhamento
+70,Chucrute conserva,26,Acompanhamento
+70,Pudim brigadeiro *lactose,172,Sobremesa
+71,Tilápia ao molho de tomate,277,Carne
+71,Picadinho suíno,748,Carne
+71,Acelga,9,Acompanhamento
+71,Beterraba ralada,11,Acompanhamento
+71,Chuchu refogado,18,Acompanhamento
+71,Salada de tomate,33,Acompanhamento
+71,Agrião,8,Acompanhamento
+71,Ovo,141,Acompanhamento
+71,Mandioquinha com manjericão,101,Acompanhamento
+71,Pudim brigadeiro *lactose,172,Sobremesa
+72,Bife à cigana,266,Carne
+72,Bife de frango acebolado,257,Carne
+72,Salada multicor,8,Acompanhamento
+72,Chuchu refogado,18,Acompanhamento
+72,Vagem conserva,147,Acompanhamento
+72,Alface,5,Acompanhamento
+72,Ovo,141,Acompanhamento
+72,Abóbora soutê,42,Acompanhamento
+72,Beterraba cubada,50,Acompanhamento
+72,Pudim brigadeiro *lactose,172,Sobremesa
+73,Frango na cerveja *glúten,303,Carne
+73,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+73,Vagem soutê,82,Acompanhamento
+73,Macarrão integral à mineira *glúten,241,Acompanhamento
+73,Alface,5,Acompanhamento
+73,Salada multicor,8,Acompanhamento
+73,Agrião,8,Acompanhamento
+73,Abóbora soutê,42,Acompanhamento
+73,Alface,5,Acompanhamento
+73,Barra de cereal *glúten*lactose,110,Sobremesa
+74,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+74,Tilápia ao molho de tomate,277,Carne
+74,Rúcula com semente de girassol,40,Acompanhamento
+74,Beterraba cubada,50,Acompanhamento
+74,Ovo,141,Acompanhamento
+74,Vagem soutê,82,Acompanhamento
+74,Pepino salada com casca,4,Acompanhamento
+74,Salada de repolho,6,Acompanhamento
+74,Salada verão,6,Acompanhamento
+74,Creme de tapioca *glúten*lactose,61,Sobremesa
+75,Frango na cerveja *glúten,303,Carne
+75,Dobradinha,297,Carne
+75,Polenta cremosa,136,Acompanhamento
+75,Alface,5,Acompanhamento
+75,Torta de aipim *lactose,171,Acompanhamento
+75,Salada marroquina,13,Acompanhamento
+75,Salada japonesa,33,Acompanhamento
+75,Pepino salada com casca,4,Acompanhamento
+75,Vagem conserva,147,Acompanhamento
+75,Salada italiana,9,Acompanhamento
+75,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+76,Picadinho suíno,748,Carne
+76,Dobradinha,297,Carne
+76,Alface,5,Acompanhamento
+76,Polenta cremosa,136,Acompanhamento
+76,Salada de tomate,33,Acompanhamento
+76,Omelete com tomate,78,Acompanhamento
+76,Vagem soutê,82,Acompanhamento
+76,Salada de cenoura cozida,38,Acompanhamento
+76,Salada italiana,9,Acompanhamento
+76,Cenoura ralada,50,Acompanhamento
+76,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+77,Dobradinha,297,Carne
+77,Bife de frango acebolado,257,Carne
+77,Salada marroquina,13,Acompanhamento
+77,Salada japonesa,33,Acompanhamento
+77,Pimentão colorido,27,Acompanhamento
+77,Polenta cremosa,136,Acompanhamento
+77,Mandioquinha com manjericão,101,Acompanhamento
+77,Alface,5,Acompanhamento
+77,Brócolis conserva,20,Acompanhamento
+77,Macarrão integral à mineira *glúten,241,Acompanhamento
+77,Pudim brigadeiro *lactose,172,Sobremesa
+78,Bife à cigana,266,Carne
+78,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+78,Torta de aipim *lactose,171,Acompanhamento
+78,Almeirão,6,Acompanhamento
+78,Alface,5,Acompanhamento
+78,Salada marroquina,13,Acompanhamento
+78,Beterraba cubada,50,Acompanhamento
+78,Salada de tomate,33,Acompanhamento
+78,Pudim brigadeiro *lactose,172,Sobremesa
+79,Bife à cigana,266,Carne
+79,Bife ao molho escuro,330,Carne
+79,Legumes refogados com alecrim,76,Acompanhamento
+79,Omelete com tomate,78,Acompanhamento
+79,Alface,5,Acompanhamento
+79,Ovo,141,Acompanhamento
+79,Salada de tomate,33,Acompanhamento
+79,Chucrute conserva,26,Acompanhamento
+79,Salada japonesa,33,Acompanhamento
+79,Gelatina,57,Sobremesa
+80,Bife ao molho escuro,330,Carne
+80,Tilápia ao molho de tomate,277,Carne
+80,Vagem soutê,82,Acompanhamento
+80,Alface,5,Acompanhamento
+80,Pimentão colorido,27,Acompanhamento
+80,Torta de aipim *lactose,171,Acompanhamento
+80,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+80,Salada de repolho,6,Acompanhamento
+80,Pudim brigadeiro *lactose,172,Sobremesa
+81,Bife à cigana,266,Carne
+81,Frango assado,267,Carne
+81,Omelete com tomate,78,Acompanhamento
+81,Acelga,9,Acompanhamento
+81,Salada italiana,9,Acompanhamento
+81,Cenoura ralada,50,Acompanhamento
+81,Nabo ralado,22,Acompanhamento
+81,Brócolis conserva,20,Acompanhamento
+81,Abóbora soutê,42,Acompanhamento
+81,Salada de tomate,33,Acompanhamento
+81,Creme de tapioca *glúten*lactose,61,Sobremesa
+82,Picadinho suíno,748,Carne
+82,Dobradinha,297,Carne
+82,Acelga,9,Acompanhamento
+82,Beterraba ralada,11,Acompanhamento
+82,Salada de repolho,6,Acompanhamento
+82,Polenta cremosa,136,Acompanhamento
+82,Salada multicor,8,Acompanhamento
+82,Ovo,141,Acompanhamento
+82,Pepino salada com casca,4,Acompanhamento
+82,Brócolis conserva,20,Acompanhamento
+82,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+83,Tilápia ao molho de tomate,277,Carne
+83,Bife à cigana,266,Carne
+83,Mandioquinha com manjericão,101,Acompanhamento
+83,Chucrute conserva,26,Acompanhamento
+83,Omelete com tomate,78,Acompanhamento
+83,Beterraba ralada,11,Acompanhamento
+83,Abóbora soutê,42,Acompanhamento
+83,Ovo,141,Acompanhamento
+83,Agrião,8,Acompanhamento
+83,Legumes refogados com alecrim,76,Acompanhamento
+83,Gelatina,57,Sobremesa
+84,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+84,Dobradinha,297,Carne
+84,Beterraba cubada,50,Acompanhamento
+84,Salada de cenoura cozida,38,Acompanhamento
+84,Vinagrete simples,8,Acompanhamento
+84,Vagem soutê,82,Acompanhamento
+84,Alface,5,Acompanhamento
+84,Abóbora soutê,42,Acompanhamento
+84,Salada italiana,9,Acompanhamento
+84,Chucrute conserva,26,Acompanhamento
+84,Pudim brigadeiro *lactose,172,Sobremesa
+85,Dobradinha,297,Carne
+85,Frango na cerveja *glúten,303,Carne
+85,Agrião,8,Acompanhamento
+85,Salada de cenoura cozida,38,Acompanhamento
+85,Beterraba ralada,11,Acompanhamento
+85,Macarrão integral à mineira *glúten,241,Acompanhamento
+85,Alface,5,Acompanhamento
+85,Salada japonesa,33,Acompanhamento
+85,Brócolis conserva,20,Acompanhamento
+85,Creme de tapioca *glúten*lactose,61,Sobremesa
+86,Frango assado,267,Carne
+86,Bife ao molho escuro,330,Carne
+86,Rúcula com semente de girassol,40,Acompanhamento
+86,Salada italiana,9,Acompanhamento
+86,Agrião,8,Acompanhamento
+86,Alface,5,Acompanhamento
+86,Batata palha,320,Acompanhamento
+86,Vagem soutê,82,Acompanhamento
+86,Gelatina,57,Sobremesa
+87,Frango na cerveja *glúten,303,Carne
+87,Bife à cigana,266,Carne
+87,Alface,5,Acompanhamento
+87,Agrião,8,Acompanhamento
+87,Salada marroquina,13,Acompanhamento
+87,Batata palha,320,Acompanhamento
+87,Polenta cremosa,136,Acompanhamento
+87,Pimentão colorido,27,Acompanhamento
+87,Salada italiana,9,Acompanhamento
+87,Alface,5,Acompanhamento
+87,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+88,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+88,Frango assado,267,Carne
+88,Batata palha,320,Acompanhamento
+88,Salada de tomate,33,Acompanhamento
+88,Salada verão,6,Acompanhamento
+88,Polenta cremosa,136,Acompanhamento
+88,Alface,5,Acompanhamento
+88,Vagem soutê,82,Acompanhamento
+88,Beterraba cubada,50,Acompanhamento
+88,Macarrão integral à mineira *glúten,241,Acompanhamento
+88,Creme de tapioca *glúten*lactose,61,Sobremesa
+89,Bife ao molho escuro,330,Carne
+89,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+89,Chuchu refogado,18,Acompanhamento
+89,Acelga,9,Acompanhamento
+89,Pimentão colorido,27,Acompanhamento
+89,Nabo ralado,22,Acompanhamento
+89,Mandioquinha com manjericão,101,Acompanhamento
+89,Vagem soutê,82,Acompanhamento
+89,Barra de cereal *glúten*lactose,110,Sobremesa
+90,Frango assado,267,Carne
+90,Bife de frango acebolado,257,Carne
+90,Vagem conserva,147,Acompanhamento
+90,Salada marroquina,13,Acompanhamento
+90,Nabo ralado,22,Acompanhamento
+90,Vagem soutê,82,Acompanhamento
+90,Brócolis conserva,20,Acompanhamento
+90,Torta de aipim *lactose,171,Acompanhamento
+90,Salada de cenoura cozida,38,Acompanhamento
+90,Pudim brigadeiro *lactose,172,Sobremesa
+91,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+91,Bife ao molho escuro,330,Carne
+91,Alface,5,Acompanhamento
+91,Alface,5,Acompanhamento
+91,Polenta cremosa,136,Acompanhamento
+91,Legumes refogados com alecrim,76,Acompanhamento
+91,Salada japonesa,33,Acompanhamento
+91,Macarrão integral à mineira *glúten,241,Acompanhamento
+91,Acelga,9,Acompanhamento
+91,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+91,Barra de cereal *glúten*lactose,110,Sobremesa
+92,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+92,Frango na cerveja *glúten,303,Carne
+92,Salada italiana,9,Acompanhamento
+92,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+92,Agrião,8,Acompanhamento
+92,Salada multicor,8,Acompanhamento
+92,Pimentão colorido,27,Acompanhamento
+92,Chucrute conserva,26,Acompanhamento
+92,Nabo ralado,22,Acompanhamento
+92,Pudim brigadeiro *lactose,172,Sobremesa
+93,Bife de frango acebolado,257,Carne
+93,Picadinho suíno,748,Carne
+93,Salada japonesa,33,Acompanhamento
+93,Macarrão integral à mineira *glúten,241,Acompanhamento
+93,Almeirão,6,Acompanhamento
+93,Salada de tomate,33,Acompanhamento
+93,Polenta cremosa,136,Acompanhamento
+93,Chucrute conserva,26,Acompanhamento
+93,Agrião,8,Acompanhamento
+93,Acelga,9,Acompanhamento
+93,Creme de tapioca *glúten*lactose,61,Sobremesa
+94,Frango assado,267,Carne
+94,Lombo suíno com molho barbecue,374,Carne
+94,Alface,5,Acompanhamento
+94,Polenta cremosa,136,Acompanhamento
+94,Macarrão integral à mineira *glúten,241,Acompanhamento
+94,Vagem conserva,147,Acompanhamento
+94,Torta de aipim *lactose,171,Acompanhamento
+94,Cenoura ralada,50,Acompanhamento
+94,Vinagrete simples,8,Acompanhamento
+94,Alface,5,Acompanhamento
+94,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+95,Frango assado,267,Carne
+95,Bife ao molho escuro,330,Carne
+95,Pimentão colorido,27,Acompanhamento
+95,Chucrute conserva,26,Acompanhamento
+95,Ovo,141,Acompanhamento
+95,Abóbora soutê,42,Acompanhamento
+95,Omelete com tomate,78,Acompanhamento
+95,Vagem conserva,147,Acompanhamento
+95,Acelga,9,Acompanhamento
+95,Creme de tapioca *glúten*lactose,61,Sobremesa
+96,Bife ao molho escuro,330,Carne
+96,Filezinho de frango ao molho rosê *glúten*lactose,218,Carne
+96,Chucrute conserva,26,Acompanhamento
+96,Alface,5,Acompanhamento
+96,Pimentão colorido,27,Acompanhamento
+96,Rúcula com semente de girassol,40,Acompanhamento
+96,Abóbora soutê,42,Acompanhamento
+96,Salada japonesa,33,Acompanhamento
+96,Vagem conserva,147,Acompanhamento
+96,Manjar de coco com calda de mirtilos *lactose,119,Sobremesa
+97,Bife de frango acebolado,257,Carne
+97,Frango na cerveja *glúten,303,Carne
+97,Chucrute conserva,26,Acompanhamento
+97,Salada de cenoura cozida,38,Acompanhamento
+97,Agrião,8,Acompanhamento
+97,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+97,Almeirão,6,Acompanhamento
+97,Rúcula com semente de girassol,40,Acompanhamento
+97,Batata palha,320,Acompanhamento
+97,Salada marroquina,13,Acompanhamento
+97,Gelatina,57,Sobremesa
+98,Lombo suíno com molho barbecue,374,Carne
+98,Frango assado,267,Carne
+98,Abóbora soutê,42,Acompanhamento
+98,Chuchu refogado,18,Acompanhamento
+98,Refogado de espinafre com repolho e cenoura,32,Acompanhamento
+98,Beterraba ralada,11,Acompanhamento
+98,Salada multicor,8,Acompanhamento
+98,Pepino salada com casca,4,Acompanhamento
+98,Salada marroquina,13,Acompanhamento
+98,Gelatina,57,Sobremesa
+99,Tilápia ao molho de tomate,277,Carne
+99,Frango na cerveja *glúten,303,Carne
+99,Torta de aipim *lactose,171,Acompanhamento
+99,Pimentão colorido,27,Acompanhamento
+99,Nabo ralado,22,Acompanhamento
+99,Chucrute conserva,26,Acompanhamento
+99,Almeirão,6,Acompanhamento
+99,Salada multicor,8,Acompanhamento
+99,Salada verão,6,Acompanhamento
+99,Creme de tapioca *glúten*lactose,61,Sobremesa

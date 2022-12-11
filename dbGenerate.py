@@ -68,5 +68,4 @@ class DbGenerator:
         except:
             print("Erro ao salvar")
 
-teste = DbGenerator(2, "items1")
-teste.gera_dia()
+#TODO: melhorar pylint analysis: Your code has been rated at 4.04/10 
