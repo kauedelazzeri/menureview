@@ -33,7 +33,7 @@ for n in len(df):
     if df["week_day"].loc[n] != df["week_day"].loc[n+1]:     
         df_temp = df.loc[primeiro:n]
 
-
+        #pd.get_dummies(dados, columns = ['variavel'])
 
         df_temp.to_numpy()
         primeiro = n
