@@ -1,1 +1,2 @@
 camelot-py==0.10.1
+requirements==2.28.1
