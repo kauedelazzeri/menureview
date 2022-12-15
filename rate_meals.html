@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Avaliação de Cardápio</title>
+  <style>
+    body {
+      background-color: lightblue;
+      font-family: sans-serif;
+    }
+  
+    h1 {
+      color: navy;
+      margin-left: 20px;
+    }
+  
+    form {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      margin: 20px;
+      padding: 20px;
+      border: 1px solid navy;
+      border-radius: 5px;
+    }
+  
+    input[type="text"],
+    input[type="number"] {
+      margin: 5px 0;
+      padding: 5px;
+      border: 1px solid navy;
+      border-radius: 3px;
+    }
+  
+    input[type="submit"] {
+      padding: 8px;
+      border: none;
+      border-radius: 5px;
+      background-color: navy;
+      color: white;
+      font-weight: bold;
+    }
+  
+    #cardapio, #media {
+      margin: 20px;
+      padding: 20px;
+      border: 1px solid navy;
+      border-radius: 5px;
+    }
+  
+    #cardapio h2, #media h3 {
+      color: navy;
+    }
+  
+    #cardapio ul {
+      list-style-type: none;
+    }
+  
+    #cardapio li {
+      margin: 5px 0;
+    }
+
+    table {
+        border-spacing: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Avalie o nosso cardápio</h1>
+  <form id="form">
+    <div>
+        <label for="data">Data do cardápio:</label>
+        <input type="date" id="data" name="data">
+    </div>
+    <div>
+        <label for="nota_geral">Nota Geral:</label>
+        <input type="number" id="nota_geral" name="nota_geral" min="0" max="10" step=0.1>
+    </div>
+    <input type="submit" value="Enviar avaliação">
+  </form> 
+
+  <div id="media"></div>
+  <div id="cardapio" class="table-responsive">
+    <h2>Cardápio do dia selecionado:</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+            <th>Dia da semana</th>
+            <th>Refeição</th>
+            <th>Calorias</th>
+            <th>Categoria</th>
+            <th>Peso</th>
+            <th>Nota</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Linhas da tabela aqui -->
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    // Carrega o arquivo JSON com os dados do cardápio
+    window.cardapioJson = [
+        {
+            "date": "2022-12-05",
+            "meals": {
+            "Quarta": [
+                { "Title": "Frango xadrez", "Kcal": 239 },
+                { "Title": "Bife de pernil com molho barbecue", "Kcal": 437 },
+                { "Title": "Macarr\u00e3o arom\u00e1tico *gl\u00faten", "Kcal": 484 },
+                { "Title": "Br\u00f3colis no vapor", "Kcal": 32 },
+                { "Title": "Radite", "Kcal": 11 },
+                { "Title": "Salada de tomate", "Kcal": 33 },
+                { "Title": "Salada japonesa", "Kcal": 33 },
+                { "Title": "Acelga", "Kcal": 9 },
+                { "Title": "Salada de abobrinha cozida", "Kcal": 9 },
+                { "Title": "Gelatina", "Kcal": 78 }
+            ],
+            "Segunda": [
+                { "Title": "Bife de frango acebolado", "Kcal": 257 },
+                { "Title": "Escalope bovino com p\u00e1prica", "Kcal": 242 },
+                { "Title": "Omelete com tomate", "Kcal": 78 },
+                { "Title": "Mandioquinha com manjeric\u00e3o", "Kcal": 101 },
+                { "Title": "Berinjela \u00e0 escabeche", "Kcal": 44 },
+                { "Title": "Escarola friss\u00e9", "Kcal": 5 },
+                { "Title": "Tomate com manjeric\u00e3o", "Kcal": 33 },
+                { "Title": "Salada brasileirinha", "Kcal": 8 },
+                { "Title": "R\u00facula", "Kcal": 12 },
+                { "Title": "Cenoura conserva", "Kcal": 76 },
+                { "Title": "Bananinha *gl\u00faten*lactose", "Kcal": 110 }
+            ],
+            "Terca": [
+                { "Title": "Dobradinha", "Kcal": 297 },
+                { "Title": "Frango assado", "Kcal": 267 },
+                { "Title": "Ovo", "Kcal": 141 },
+                { "Title": "Batata palha", "Kcal": 320 },
+                { "Title": "Chuchu com milho", "Kcal": 23 },
+                { "Title": "Chic\u00f3ria", "Kcal": 6 },
+                { "Title": "Rabanete com linha\u00e7a", "Kcal": 38 },
+                { "Title": "Salada campestre II", "Kcal": 27 },
+                { "Title": "Alface", "Kcal": 5 },
+                { "Title": "Beterraba em conserva", "Kcal": 40 },
+                { "Title": "Curau *lactose", "Kcal": 134 }
+            ],
+            "Sexta": [
+                { "Title": "Costela", "Kcal": 917 },
+                { "Title": "Filezinho de frango empanado *gl\u00faten", "Kcal": 272 },
+                { "Title": "Farofa pronta", "Kcal": 434 },
+                { "Title": "Seleta de legumes", "Kcal": 109 },
+                { "Title": "Agri\u00e3o", "Kcal": 8 },
+                { "Title": "Salada de tomate", "Kcal": 33 },
+                { "Title": "Salada ver\u00e3o", "Kcal": 6 },
+                { "Title": "Piment\u00e3o colorido", "Kcal": 27 },
+                { "Title": "Pepino conserva", "Kcal": 17 },
+                { "Title": "Picol\u00e9 *lactose", "Kcal": 95 }
+            ],
+            "Quinta": [
+                { "Title": "Til\u00e1pia assada com alcaparras *lactose", "Kcal": 336 },
+                { "Title": "Frango ao vinho", "Kcal": 267 },
+                { "Title": "Pur\u00ea de batatas com cenoura *lactose", "Kcal": 81 },
+                { "Title": "Moranga refogada", "Kcal": 21 },
+                { "Title": "Salada mista ralada", "Kcal": 33 },
+                { "Title": "Repolho roxo ralado", "Kcal": 2 },
+                { "Title": "R\u00facula com manga", "Kcal": 14 },
+                { "Title": "Beterraba ralada", "Kcal": 11 },
+                { "Title": "Chuchu cozido", "Kcal": 19 },
+                { "Title": "Pudim brigadeiro *lactose", "Kcal": 172 }
+            ]
+            }
+        },
+        {
+            "date": "2022-12-12",
+            "meals": {
+            "Quinta": [
+                {
+                "Title": "Filezinho de frango ao molho ros\u00ea *gl\u00faten*lactose",
+                "Kcal": 218
+                },
+                { "Title": "Bife de pernil grelhado", "Kcal": 443 },
+                { "Title": "Torta de aipim *lactose", "Kcal": 171 },
+                { "Title": "Couve-flor \u00e0 oriental", "Kcal": 65 },
+                { "Title": "Escarola friss\u00e9", "Kcal": 5 },
+                { "Title": "Salada de tomate", "Kcal": 33 },
+                { "Title": "Rabanete agridoce", "Kcal": 5 },
+                { "Title": "Salada mista ralada", "Kcal": 33 },
+                { "Title": "Beterraba cubada", "Kcal": 50 },
+                { "Title": "Pudim napolitano *lactose", "Kcal": 144 }
+            ],
+            "Terca": [
+                { "Title": "Risoto piamontes *gl\u00faten", "Kcal": 371 },
+                { "Title": "Til\u00e1pia com curry", "Kcal": 362 },
+                { "Title": "Ovo", "Kcal": 141 },
+                { "Title": "Batata palha", "Kcal": 320 },
+                { "Title": "Legumes refogados com alecrim fresco", "Kcal": 76 },
+                { "Title": "Alface", "Kcal": 5 },
+                { "Title": "Salada de tomate", "Kcal": 33 },
+                { "Title": "Salada marroquina", "Kcal": 13 },
+                { "Title": "R\u00facula", "Kcal": 12 },
+                { "Title": "Salada de br\u00f3colis cozido", "Kcal": 13 },
+                { "Title": "Creme de tapioca *gl\u00faten*lactose", "Kcal": 61 }
+            ],
+            "Sexta": [
+                { "Title": "Sobrecoxa empanada *gl\u00faten", "Kcal": 360 },
+                { "Title": "Bisteca acebolada", "Kcal": 416 },
+                { "Title": "Farofa pronta", "Kcal": 434 },
+                { "Title": "Repolho roxo agridoce com ameixa", "Kcal": 56 },
+                { "Title": "Salada italiana", "Kcal": 9 },
+                { "Title": "Salada de pepino", "Kcal": 5 },
+                { "Title": "Cenoura com ervilhas", "Kcal": 86 },
+                { "Title": "Agri\u00e3o", "Kcal": 8 },
+                { "Title": "Cebola em conserva", "Kcal": 33 },
+                {
+                "Title": "Manjar de p\u00eassego com calda de p\u00eassego *lactose",
+                "Kcal": 141
+                }
+            ],
+            "Segunda": [
+                { "Title": "Ca\u00e7arola ao molho de ervilhas", "Kcal": 452 },
+                { "Title": "Bife de frango ao molho barbecue", "Kcal": 250 },
+                { "Title": "Omelete com tomate", "Kcal": 78 },
+                { "Title": "Polenta cremosa", "Kcal": 136 },
+                {
+                "Title": "Chuchu \u00e0 parisiense II *gl\u00faten*lactose",
+                "Kcal": 29
+                },
+                { "Title": "Almeir\u00e3o", "Kcal": 6 },
+                { "Title": "Nabo ralado", "Kcal": 22 },
+                { "Title": "Salada ex\u00f3tica", "Kcal": 17 },
+                { "Title": "Piment\u00e3o colorido", "Kcal": 27 },
+                { "Title": "Picles em conserva", "Kcal": 20 },
+                { "Title": "Iogurte *gl\u00faten*lactose", "Kcal": 161 }
+            ],
+            "Quarta": [
+                { "Title": "Frango na cerveja *gl\u00faten", "Kcal": 303 },
+                { "Title": "Iscas aceboladas", "Kcal": 274 },
+                { "Title": "Macarr\u00e3o ao sugo *gl\u00faten", "Kcal": 202 },
+                { "Title": "Ab\u00f3bora sout\u00ea", "Kcal": 42 },
+                { "Title": "Alface", "Kcal": 5 },
+                { "Title": "Cebola com or\u00e9gano", "Kcal": 57 },
+                { "Title": "Acelga com uva", "Kcal": 10 },
+                { "Title": "Beterraba ralada", "Kcal": 11 },
+                { "Title": "Cenoura conserva", "Kcal": 76 },
+                {
+                "Title": "Creme de abacaxi com coco *gl\u00faten*lactose",
+                "Kcal": 94
+                }
+            ]
+            }
+        },
+        { "date": "2022-12-19", "meals": {} },
+        { "date": "2022-12-26", "meals": {} },
+        { "date": "2023-01-02", "meals": {} }
+    ]
+
+    /*fetch('menu.json')
+        .then(function(response) {
+            // Se a requisição foi bem-sucedida, lê os dados do arquivo JSON
+            return response.json();
+        })
+        .then(function(cardapioJson) {
+            // Armazena os dados do cardápio em uma variável global
+            window.cardapioJson = cardapioJson;
+        })
+        .catch(function(error) {
+            // Se ocorreu um erro, exibe uma mensagem de erro
+            console.error('Erro ao ler o arquivo menu.json');
+        });*/
+
+    // Função que exibe o cardápio de um dia específico
+    function exibeCardapio(data) {
+        // Converte a data selecionada para um objeto Date
+        var dataSelecionada = new Date(data);
+
+        // Procura o cardápio correspondente à data selecionada
+        var cardapioSemana = window.cardapioJson.find(function(c) {
+            // Converte a data inicial do cardápio para um objeto Date
+            var inicioSemana = new Date(c.date);
+            // Calcula o fim da semana como sendo 6 dias após o início
+            var fimSemana = new Date(inicioSemana.getTime() + 6 * 24 * 60 * 60 * 1000);
+            // Verifica se a data selecionada está no intervalo entre o início e o fim da semana
+            return dataSelecionada >= inicioSemana && dataSelecionada <= fimSemana;
+        });
+
+        // Se o cardápio da semana foi encontrado, exibe a lista de refeições para cada dia da semana
+        if (cardapioSemana) {
+
+            // Converte a data selecionada para o formato dia da semana
+            var dataDiaSemana = dataSelecionada.toLocaleString('pt-BR', { weekday: 'long' }).replace(/^\w/, c => c.toUpperCase()).replace('-feira', '').replace('ç', 'c');
+
+            // Seleciona a refeição do dia selecionado
+            var refeicoesDia = cardapioSemana.meals[dataDiaSemana];
+            if(refeicoesDia) {
+                var cardapioHtml = `<table>
+                    <thead>
+                        <tr>
+                            <th>Dia da semana</th>
+                            <th>Refeição</th>
+                            <th>Calorias</th>
+                            <th>Categoria</th>
+                            <th>Peso</th>
+                            <th>Nota</th>
+                        </tr>
+                    </thead>
+                    <tbody>`;
+
+                // Percorre as refeições do dia
+                refeicoesDia.forEach(function(refeicao) {
+                    cardapioHtml += '<tr>';
+                    cardapioHtml += '<td>' + dataDiaSemana + '</td>';
+                    cardapioHtml += '<td>' + refeicao.Title + '</td>';
+                    cardapioHtml += '<td>' + refeicao.Kcal + '</td>';
+                    cardapioHtml += '<td><select name="categoria"><option value="salada">Salada</option><option value="sobremesa">Sobremesa</option><option value="carne">Carne</option><option value="acompanhamento">Acompanhamento</option></select></td>';
+                    cardapioHtml += '<td><input type="number" name="peso" min="1" max="5" value="1"></td>';
+                    cardapioHtml += '<td><input type="number" name="nota" min="0" max="10" value="0"></td>';
+                    cardapioHtml += '</tr>';
+                });
+
+                cardapioHtml += '</tbody></table>';
+                document.getElementById('cardapio').innerHTML = cardapioHtml;
+            } else {
+                // Se não foi encontrado, exibe uma mensagem de erro
+                document.getElementById('cardapio').innerHTML = '<p>Cardápio não encontrado para a data selecionada.</p>';
+            }
+        } else {
+            // Se não foi encontrado, exibe uma mensagem de erro
+            document.getElementById('cardapio').innerHTML = '<p>Cardápio não encontrado para a data selecionada.</p>';
+        }
+        return refeicoesDia
+    }
+
+    function calcNota(){
+        var nota = document.querySelectorAll('input[name="nota"]');
+        var peso = document.querySelectorAll('input[name="peso"]');
+        var total = 0;
+        var totalPeso = 0;
+        for (var i = 0; i < nota.length; i++) {
+            if(nota[i].value > 10)nota[i].value = 10;
+            if(nota[i].value < 0)nota[i].value = 0;
+            if(peso[i].value > 5)peso[i].value = 5;
+            if(peso[i].value < 1)peso[i].value = 1;
+            total += nota[i].value * peso[i].value;
+            totalPeso += parseInt(peso[i].value);
+        }
+        var media = total / totalPeso;
+        document.getElementById('media').innerHTML = media;
+    }
+
+    // Quando o usuário selecionar uma data no formulário, chama a função exibeCardapio
+    document.getElementById('data').addEventListener('change', function() {
+      exibeCardapio(this.value);
+      calcNota();
+    });
+
+    //verificar se o valor do peso e da nota mudou
+    document.getElementById('cardapio').addEventListener('change', function() {
+      calcNota();
+    });
+
+    // Quando o usuário enviar o formulário, envia as informações para a API /nota
+    document.getElementById('form').addEventListener('submit', function(event) {
+        event.preventDefault();
+
+        // Coleta as informações do formulário
+        var data = this.data.value;
+        var nota = this.nota_geral.value;
+        var refeicoes = [];
+
+        // Coleta as informações das refeições do cardápio
+        var cardapioDia = exibeCardapio(this.data.value);
+        var selects = document.querySelectorAll('select[name="categoria"]');
+        for (var i = 0; i < selects.length; i++) {
+            refeicoes.push({
+                meal: cardapioDia[i].Title,
+                kcal: cardapioDia[i].Kcal,
+                category: selects[i].value
+            });
+        }
+
+        // Envia as informações para a API /nota
+        fetch('/nota', {
+            method: 'POST',
+            headers: {
+            'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+            data: data,
+            nota: nota,
+            refeicoes: refeicoes
+            })
+        });
+    });
+
+  </script>
+</body>
+</html>
