@@ -6,7 +6,7 @@ import datetime
 INIT_MONTH = 12
 END_MONTH = 12
 YEAR = 2022
-EDGE_ACCESS_COOKIE = "<COOKIE_ACCESS_INTRANET>"
+EDGE_ACCESS_COOKIE = '5c8d42f18916587290e5adb93ef1'
 LOCAL = "Jaraguá do Sul"
 
 all_meals = []
