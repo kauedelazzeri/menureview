@@ -2,13 +2,15 @@ from flask import Flask, request
 import csv
 
 app = Flask(__name__)
+filename = 'items2_10-12-2022 201016.csv'
+type = 'Gerado'
 
 @app.route("/", methods=["GET", "POST"])
 def index():
     data = None
     if request.method == "GET":
         # Read the CSV file
-        with open("food_data.csv", "r") as file:
+        with open('Cardapio\\'+str(type)+'\\'+str(filename), "r") as file:
             reader = csv.DictReader(file)
             data = [row for row in reader]
 
@@ -52,7 +54,7 @@ def index():
 
     if request.method == "POST":
         # Read the CSV file
-        with open("food_data.csv", "r") as file:
+        with open('Cardapio\\Votado\\'+str(filename), "r") as file:
             reader = csv.DictReader(file)
             data = [row for row in reader]
 
@@ -67,7 +69,7 @@ def index():
         if week_day is None:
             return "No vote was received. Please try again."
 
-        with open("food_data.csv", "w") as file:
+        with open('Cardapio\\Votado\\'+str(filename), "w") as file:
             writer = csv.DictWriter(file, fieldnames=["week_day", "title", "k_calories", "category", "vote"])
             writer.writeheader()
             writer.writerows(data)
